@@ -12,7 +12,8 @@ Lint documents with [Vale][vale] in [Visual Studio Code][code].
 
 [Install vale][1] **0.7.2 or newer**.
 
-If vale is too old the extension fails to activate.  In this case please update Vale; the error message tells you the required version.
+If Vale is too old the extension fails to activate.
+In this case please update Vale; the error message tells you the required version.
 
 > By default the extension will use the global installed binary `vale`. In case you have the binary installed on a local project you can configure the extension to use the local path. See [configuration options](#configuration) below.
 
@@ -53,4 +54,8 @@ This extension supports the following file extensions by default, but you can ch
 }
 ```
 
--   `vscode-vale.fileExtensions`: (default `md, markdown, txt, rst, tex, adoc, asciidoc`). File extensions to lint. Note, these also need to be in your Vale config file.
+-   `vscode-vale.fileExtensions`: (default `md, markdown, txt, rst, tex, adoc, asciidoc`).
+
+File extensions to lint.
+
+> **Note**, these also need to be in your Vale config file.
