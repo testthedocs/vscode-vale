@@ -1,6 +1,6 @@
 # VSCode vale
 
-> This extension is now depreceated in favour of [github.com/errata-ai/vale-vscode](https://github.com/errata-ai/vale-vscode), which supports both Vale CLI and Vale Server. You should uninstall this extension, and install that extension. Any Vale config and styles should work with no issue, but you will likely need to update any relevant settings in the new extension.
+> This extension is now depreciated in favour of [github.com/errata-ai/vale-vscode](https://github.com/errata-ai/vale-vscode), which supports both Vale CLI and Vale Server. You should uninstall this extension, and install that extension. Any Vale config and styles should work with no issue, but you will likely need to update any relevant settings in the new extension.
 
 Thanks to all the work previous work from [lunaryorn](https://github.com/testthedocs/vscode-vale/commits?author=lunaryorn), this is a new maintained fork, with more features to come soon.
 
